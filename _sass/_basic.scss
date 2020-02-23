@@ -20,7 +20,10 @@ body {
 	color: $text-medium-color;
 }
 
-
+@font-face {
+	font-family: "Quentin";
+	src: url("../fonts/quentin.woff");
+}
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Typography
 

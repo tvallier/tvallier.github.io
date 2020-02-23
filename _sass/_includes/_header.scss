@@ -54,11 +54,6 @@
 	@include mq(laptop) {
 		font-size: $sitetitle-large;
 	}
-	@font-face {
-		font-family: "Quentin";
-		//src: url("../../fonts/quentin.otf"),
-		src: url("../../fonts/quentin.woff");
-	}
 }
 
 
