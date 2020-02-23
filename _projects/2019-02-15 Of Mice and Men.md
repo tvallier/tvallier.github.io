@@ -2,7 +2,7 @@
 title: 'Of Mice and Men'
 subtitle: '2019'
 date: 2019-02-15 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+description: Music for the staged production of John Steinbeck's classic novella. The story of two displaced migrant ranch workers, who move from place to place in California in search of new job opportunities during the Great Depression in the United States.
 featured_image: '/images/albums/ofmiceandmen.jpg'
 ---
 

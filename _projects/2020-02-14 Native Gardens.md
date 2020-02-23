@@ -2,7 +2,7 @@
 title: 'Native Gardens'
 subtitle: '2020'
 date: 2020-02-14 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+description: Music for Karen Zacarias's brilliant comedy, 'Native Gardens'. Cultures and gardens clash, turning well-intentioned neighbors into feuding enemies. A delicate disagreement over a long-standing fence line soon spirals into an all-out border dispute, exposing both couples’ notions of race, taste, class and privilege.
 featured_image: '/images/albums/nativegardens.jpg'
 ---
 
