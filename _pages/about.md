@@ -1,6 +1,6 @@
 ---
-title: About me
-subtitle: 
+title: About
+subtitle: Timothy Vallier
 description: Personal is the perfect theme for developers, designers and other creatives.
 featured_image: /images/featured/about.jpg
 ---

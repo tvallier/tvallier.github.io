@@ -1,6 +1,6 @@
 ---
 title: Contact
-subtitle: Let's get in touch!
+subtitle: Let's Talk Music
 description: Contact me page.
 featured_image: /images/featured/contact.jpg
 ---

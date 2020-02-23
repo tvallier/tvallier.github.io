@@ -38,6 +38,7 @@
 .header__title {
 	font-size: $sitetitle-small;
 	font-weight: $sitetitle-weight;
+	font-family: "Quentin";
 	letter-spacing: $sitetitle-spacing;
 	line-height: 1;
 	color: $text-dark-color;
@@ -52,6 +53,10 @@
 
 	@include mq(laptop) {
 		font-size: $sitetitle-large;
+	}
+	@font-face {
+		font-family: "Quentin";
+		src: url("../../fonts/quentin.otf");
 	}
 }
 
