@@ -23,7 +23,7 @@
 
 	h1 {
 		color: $hero-text-color;
-		font-family: "Quentin";
+		font-family: "Quentin","Muli",sans-serif;
 
 		@include mq(tabletp) {
 			white-space: pre-line;
