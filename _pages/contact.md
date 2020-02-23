@@ -2,7 +2,7 @@
 title: Contact
 subtitle: Let's get in touch!
 description: Contact me page.
-featured_image: /images/demo/contact.jpg
+featured_image: /images/featured/contact.jpg
 ---
 
 {% include contact-form.html %}
