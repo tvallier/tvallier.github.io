@@ -38,7 +38,7 @@
 .header__title {
 	font-size: $sitetitle-small;
 	font-weight: $sitetitle-weight;
-	font-family: "Quentin";
+	font-family: "Quentin","Muli", sans-serif;
 	letter-spacing: $sitetitle-spacing;
 	line-height: 1;
 	color: $text-dark-color;
@@ -56,7 +56,8 @@
 	}
 	@font-face {
 		font-family: "Quentin";
-		src: url("../../fonts/quentin.otf");
+		src: url("../../fonts/quentin.otf"),
+		src: url("../../fonts/quentin.ttf");
 	}
 }
 
