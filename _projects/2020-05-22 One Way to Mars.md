@@ -13,7 +13,7 @@ featured_image: '/images/albums/mars.jpg'
 One Way to Mars, a 75-minute musical audio drama by Timothy and Mallory Vallier, follows Natalie, a neuroscientist and mother, who is invited to embark on a pioneering one-way trip to Mars. But to take part, she must leave everything on Earth behind.
 This is the Valliers’ reimagining of the classic Scottish ballad "The Daemon Lover." Both share themes of romance, tragedy and adventure.
 
-Leanne Hill Carlson plays Natalie; Steve Krambeck plays her husband, Clark; and Thomas Gjere plays James, Natalie’s former colleague (and former lover), who invites her to Mars. Christi Leupold and Dustin Smith play multiple roles. Daena Schweiger directs.
+Leanne Hill Carlson plays Natalie; Steve Krambeck plays her husband, Clark; and Thomas Gjere plays James, Natalie’s former colleague (and former lover), who invites her to Mars. Christi Leupold and Dustin Smith play various roles. Daena Schweiger directs.
 
 Tim Vallier wrote the music and designed sound, with book and lyrics by Mallory Vallier.
 
