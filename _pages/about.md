@@ -102,26 +102,26 @@ Podcast embed code:
 
 ## Classical Works by Instrumentation  
 
-| Instrumentation      | Title         | Year             |
-|----------------------|---------------|------------------|
-| **Brass Quintet**    | Clouded Mind   | 2009             | 
-| **Choir**            | When the Pale Moon Floats  | 2007             |
-|                      | Who Do I Have in Heaven?  | 2011             |
-| **Electroacoustic**    | Substance  | 2009             |
-|                       | Accidental Self Portrait  | 2010             |
-|                      | Mobile Phone Orchestra Suite  | 2010             |
-|                      | Ephemeral Artifacts  | 2012             |
-|                      | Limbic Hemispheres  | 2013             |
-| **Flute**    | Foible  | 2009             |
-| **Marimba**    | Memory Stages  | 2011             |
-| **Oboe Band**    | Rubber Petals  | 2011             |
-| **Orchestra**    | Mystical Dawn  | 2007             |
-|                       | Piano Concerto  | 2009             |
-| **Piano Trio**    | Rhapsodic Dreams  | 2006             |
-| **Saxophone Quartet**    | Stylized Dances  | 2008             |
-| **Voice**    | Love's Lost Tale  | 2008             |
-| **Wind Ensemble**    | Light Density  | 2010             |
-| **Woodwind Quintet**    | Glass Factory  | 2008             |  
+| Instrumentation      | Title         |
+|----------------------|---------------|
+| **Brass Quintet**    | Clouded Mind   |
+| **Choir**            | When the Pale Moon Floats  |
+|                      | Who Do I Have in Heaven?  |
+| **Electroacoustic**    | Substance  |
+|                       | Accidental Self Portrait  |
+|                      | Mobile Phone Orchestra Suite  |
+|                      | Ephemeral Artifacts  |
+|                      | Limbic Hemispheres  |
+| **Flute**    | Foible  |
+| **Marimba**    | Memory Stages  |
+| **Oboe Band**    | Rubber Petals  |
+| **Orchestra**    | Mystical Dawn  |
+|                       | Piano Concerto  |
+| **Piano Trio**    | Rhapsodic Dreams  |
+| **Saxophone Quartet**    | Stylized Dances  |
+| **Voice**    | Love's Lost Tale  |
+| **Wind Ensemble**    | Light Density  |
+| **Woodwind Quintet**    | Glass Factory  |
 
 [Score and/or recordings are available upon request.](/contact.html)
 
@@ -193,20 +193,20 @@ Podcast embed code:
 ## Publications
 
 
-| Title      | Publication         | Year             |
-|----------------------|---------------|------------------|
-|[Interactive music: Human Motion Initiated Music](https://bvisionweb1.cs.unc.edu/home/publications/kinect_music.pdf)|Proc. Conf. Soc. Electro-Acoustic Music United States |2012|
-|[The Data Sensorium: Sonification](https://owd.tcnj.edu/~mmi/papers/Paper63.pdf)|Music, Mind, and Invention Workshop|2012|
-|[In Constraint, Creativity–a Manifest for Open Online Education](https://www.researchgate.net/profile/Margaret-Schedel/publication/285586573_In_Constraint_Creativity_-_a_Manifest_for_Open_Online_Education/links/5667338e08aea62726ee6f03/In-Constraint-Creativity-a-Manifest-for-Open-Online-Education.pdf)|Book Chapter|2012|
-|[Environmental, linguistic, and developmental influences on mothers? speech to children: an examination of audible and visible properties.](https://www.semanticscholar.org/paper/Environmental%2C-linguistic%2C-and-developmental-on-to-Smith-Vallier/9a70eabeab9d992aa5fd35d540694ce5271568d7)|AVSP|2015|
-|[Determining the accuracy of sound field synthesis systems in reproducing subjective source locations](https://asa.scitation.org/doi/abs/10.1121/1.4987365)|The Journal of the Acoustical Society of America|2017|
-|[Designing rehabilitative experiences for virtual, mixed, and augmented reality environments](https://asa.scitation.org/doi/abs/10.1121/1.4987365)|The Journal of the Acoustical Society of America|2018|
-|[How physical versus panned sources in dry or reverberant conditions affect the accuracy of localization in sound field synthesis systems](https://asa.scitation.org/doi/abs/10.1121/1.5036002)|The Journal of the Acoustical Society of America|2018|
-|[Live Coding Tutorial: Real-Time Open Sound Communication from Unreal Engine 4 to Max 7](https://www.aes.org/events/145/gameaudio/?ID=6320)|AES New York 2018 - Game Audio and XR Track Event|2019|
-|[Child-directed speech enhances preschoolers’ speech perception in noise](https://asa.scitation.org/doi/abs/10.1121/1.5101461)|The Journal of the Acoustical Society of America|2019|
-|[One Way to Mars: An Audio Drama](https://search.proquest.com/openview/def95706fb311b31440447000f346994/1?pq-origsite=gscholar&cbl=18750&diss=y)|Ph.D. Dissertation|2019|
-|[Child-directed speech in noise: Listener-and environment-related changes in speech acoustics](https://asa.scitation.org/doi/abs/10.1121/1.5101355)|The Journal of the Acoustical Society of America|2019|
-|[Applying Virtual Reality to Audiovisual Speech Perception Tasks in Children](https://pubs.asha.org/doi/abs/10.1044/2020_AJA-19-00004)|American Journal of Audiology|2020|
+| Title      | Publication         |
+|----------------------|---------------|
+|[Interactive music: Human Motion Initiated Music](https://bvisionweb1.cs.unc.edu/home/publications/kinect_music.pdf)|Proc. Conf. Soc. Electro-Acoustic Music United States - 2012|
+|[The Data Sensorium: Sonification](https://owd.tcnj.edu/~mmi/papers/Paper63.pdf)|Music, Mind, and Invention Workshop - 2012|
+|[In Constraint, Creativity–a Manifest for Open Online Education](https://www.researchgate.net/profile/Margaret-Schedel/publication/285586573_In_Constraint_Creativity_-_a_Manifest_for_Open_Online_Education/links/5667338e08aea62726ee6f03/In-Constraint-Creativity-a-Manifest-for-Open-Online-Education.pdf)|Book Chapter - 2012|
+|[Environmental, linguistic, and developmental influences on mothers? speech to children: an examination of audible and visible properties.](https://www.semanticscholar.org/paper/Environmental%2C-linguistic%2C-and-developmental-on-to-Smith-Vallier/9a70eabeab9d992aa5fd35d540694ce5271568d7)|AVSP - 2015|
+|[Determining the accuracy of sound field synthesis systems in reproducing subjective source locations](https://asa.scitation.org/doi/abs/10.1121/1.4987365)|The Journal of the Acoustical Society of America - 2017|
+|[Designing rehabilitative experiences for virtual, mixed, and augmented reality environments](https://asa.scitation.org/doi/abs/10.1121/1.4987365)|The Journal of the Acoustical Society of America - 2018|
+|[How physical versus panned sources in dry or reverberant conditions affect the accuracy of localization in sound field synthesis systems](https://asa.scitation.org/doi/abs/10.1121/1.5036002)|The Journal of the Acoustical Society of America - 2018|
+|[Live Coding Tutorial: Real-Time Open Sound Communication from Unreal Engine 4 to Max 7](https://www.aes.org/events/145/gameaudio/?ID=6320)|AES New York 2018 - Game Audio and XR Track Event - 2019|
+|[Child-directed speech enhances preschoolers’ speech perception in noise](https://asa.scitation.org/doi/abs/10.1121/1.5101461)|The Journal of the Acoustical Society of America - 2019|
+|[One Way to Mars: An Audio Drama](https://search.proquest.com/openview/def95706fb311b31440447000f346994/1?pq-origsite=gscholar&cbl=18750&diss=y)|Ph.D. Dissertation - 2019|
+|[Child-directed speech in noise: Listener-and environment-related changes in speech acoustics](https://asa.scitation.org/doi/abs/10.1121/1.5101355)|The Journal of the Acoustical Society of America - 2019|
+|[Applying Virtual Reality to Audiovisual Speech Perception Tasks in Children](https://pubs.asha.org/doi/abs/10.1044/2020_AJA-19-00004)|American Journal of Audiology - 2020|
         
 
 Platforms
