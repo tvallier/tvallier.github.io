@@ -28,7 +28,7 @@ Media
 
 ### Spotify
 
-<p ><iframe src="https://open.spotify.com/embed/artist/1FpclNjYn02lGjPY5qHv8E" width="350" height="350" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></p>
+<p ><iframe src="https://open.spotify.com/embed/artist/1FpclNjYn02lGjPY5qHv8E" width="100%" height="350" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></p>
 Spotify embed code:
 ```
 <iframe src="https://open.spotify.com/embed/artist/1FpclNjYn02lGjPY5qHv8E" width="350" height="350" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
@@ -37,7 +37,7 @@ Spotify embed code:
 
 ### Apple Music
 
-<p ><iframe src="https://embed.music.apple.com/us/album/a-raisin-in-the-sun-music-from-the-stage-play/1501419103?app=music&amp;itsct=music_box&amp;itscg=30200&amp;ct=albums_a_raisin_in_the_sun_%28music_from_t&amp;ls=1" height="350px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 350px; overflow: hidden; border-radius: 10px; background: transparent;"></iframe></p>
+<p ><iframe src="https://embed.music.apple.com/us/album/a-raisin-in-the-sun-music-from-the-stage-play/1501419103?app=music&amp;itsct=music_box&amp;itscg=30200&amp;ct=albums_a_raisin_in_the_sun_%28music_from_t&amp;ls=1" height="350px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; overflow: hidden; border-radius: 10px; background: transparent;"></iframe></p>
 Apple Music Embed Code:
 ```
 <iframe src="https://embed.music.apple.com/us/album/a-raisin-in-the-sun-music-from-the-stage-play/1501419103?app=music&amp;itsct=music_box&amp;itscg=30200&amp;ct=albums_a_raisin_in_the_sun_%28music_from_t&amp;ls=1" height="350px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 350px; overflow: hidden; border-radius: 10px; background: transparent;"></iframe>
@@ -134,9 +134,6 @@ Podcast embed code:
 * [One Way to Mars - Preview - OWH - 2020](https://omaha.com/entertainment/mars-and-romance-combine-in-omaha-playhouses-online-pizza-production/article_2158378a-613e-542c-b6ea-f53e76b64eca.html)
 * [One Way to Mars - Preview - Broadway World - 2020](https://www.broadwayworld.com/omaha/article/Omaha-Community-Playhouse-Announces-Streaming-Events-20200501)  
 * [One Way to Mars - Preview - Daily Nonpareil - 2020](https://nonpareilonline.com/lifestyles/omaha-community-playhouse-to-stream-local-stage-artists-music/article_0064a38a-dd8b-58fe-b165-44badbeda980.html)
-
----
-
 * [A Raisin in the Sun - OWH - 2020](https://omaha.com/entertainment/review-tyrone-beasleys-take-on-a-raisin-in-the-sun-will-pull-you-in-and/article_2fba5a2c-70fc-5f71-8da6-4c535c83e629.html)
 > “I have to mention the achingly beautiful music written by Tim Vallier for scene changes, and a set by Steve Williams that matched my mental image of a rundown apartment on the south side of Chicago in the late 1950s.” -Betsie Freeman
 * [A Raisin in the Sun - Chris’s Corner - 2020](https://creatingcontemplation.wordpress.com/2020/01/17/the-price-of-family/)
