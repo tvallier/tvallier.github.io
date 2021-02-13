@@ -8,12 +8,12 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Home'
       url: '/'
     # - title: 'Blog'
       #url: '/blog/'
-    #- title: 'About'
-     # url: '/about'
+    - title: 'About'
+      url: '/about'
     - title: 'Contact'
       url: '/contact'
 
@@ -33,18 +33,18 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: ''
+  facebook_url: 'https://www.facebook.com/drtimv'
   twitter_url: ''
-  instagram_url: ''
+  instagram_url: 'https://www.instagram.com/dr.timv/'
   snapchat_url: ''
-  youtube_url: ''
+  youtube_url: 'https://www.youtube.com/channel/UCoPxLX-fm0uuqYmLJZPNMtQ'
   google-plus_url: ''
   vimeo_url: ''
   pinterest_url: ''
   medium_url: ''
   quora_url: ''
-  amazon_url: ''
-  apple_url: ''
+  amazon_url: 'https://music.amazon.com/artists/B085FZH7VV/timothy-vallier'
+  apple_url: 'https://music.amazon.com/artists/B085FZH7VV/timothy-vallier'
   android_url: ''
   tumblr_url: ''
   dribbble_url: ''
@@ -55,10 +55,10 @@ social_settings:
   flickr_url: ''
   etsy_url: ''
   kickstarter_url: ''
-  soundcloud_url: ''
-  spotify_url: ''
-  bandcamp_url: ''
-  linkedin_url: ''
+  soundcloud_url: 'https://soundcloud.com/timvallier'
+  spotify_url: 'https://open.spotify.com/artist/1FpclNjYn02lGjPY5qHv8E'
+  bandcamp_url: 'https://drtimv.bandcamp.com/releases'
+  linkedin_url: 'https://www.linkedin.com/in/drtimv/'
 
 color_settings:
   background_color: '#ffffff'
