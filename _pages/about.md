@@ -96,7 +96,7 @@ Podcast embed code:
 
 ## Musical Theatre Works
 
-* [One Ways to Mars - 2020](https://timothyvallier.com/project/one-way-to-mars)
+* [One Way to Mars - 2020](https://timothyvallier.com/project/one-way-to-mars)
     
 ---
 
