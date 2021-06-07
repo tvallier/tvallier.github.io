@@ -5,7 +5,7 @@ description: Electronic press kit for theatre composer, vocalist, and engineer D
 featured_image: /images/featured/about.jpg
 ---
 
-<img style="border-radius: 50%;" src="images/personal/headshot.jpeg" alt="Avatar">
+<img style="border-radius: 50%;" src="images/personal/headshot2.jpg" alt="Avatar">
 
 Bio
 ---
@@ -169,8 +169,10 @@ Podcast embed code:
 
 ---    
 
-## Performer Press
+## Performer and Music Director Press
 
+* [As Music Director in ‘Gutenberg: The Musical’ - Chris's Corner - 2021](https://creatingcontemplation.wordpress.com/2021/06/05/press-on/)
+> “Tim Vallier’s musical direction is right on the mark as he understands the humor and beats of the songs and they are excellently performed by Sara Collins on piano.“ -Chris Elston
 * [As Vocalist in ‘Bittersweet - A Valentines Hangover Cabaret’ - Broadway World - 2018](https://www.broadwayworld.com/omaha/article/Photo-Coverage-BITTERSWEET-A-VALENTINES-HANGOVER-CABARET-20180217)
 > “Tim Vallier pulls out all the stops with Queen's 'Save Me.'“ -Christine Swerczek
 * [As Beast in ‘Beauty and the Beast’ - OCP - Broadway World - 2017](https://www.broadwayworld.com/omaha/article/BWW-Review-BEAUTY-AND-THE-BEAST-at-Omaha-Community-Playhouse-Has-Beauty-Abounding-20170526)
