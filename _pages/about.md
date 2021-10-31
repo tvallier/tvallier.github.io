@@ -2,15 +2,15 @@
 title: Electronic Press Kit
 subtitle: Dr. Timothy Vallier Ph.D.
 description: Electronic press kit for theatre composer, vocalist, and engineer Dr. Timothy Vallier Ph.D.
-featured_image: /images/featured/about.jpg
+featured_image: /images/featured/headshot2021.jpg
 ---
 
-<img style="border-radius: 50%;" src="images/personal/headshot2.jpg" alt="Avatar">
+<img style="border-radius: 50%;" src="images/personal/headshot2021.jpg" alt="Avatar">
 
 Bio
 ---
 
-Timothy Vallier is an Omaha-native composer, performer, and technical artist. His most recent works include composing original music for the stage plays _Sleepy Hollow,_ _Native Gardens_, _A Raisin in the Sun_, _Sweat_, _Of Mice and Men,_ and _Ripcord_. As a performer, he appeared as Beast in _Beauty and the Beast_ at OCP (Mary Peckham Award), Mark Cohen in _RENT_ with SNAP! Productions, and Raoul in _Eating Raoul_ at Shelterbelt Theatre (TAG Award). Offstage, Tim served as the technical artist for _Rock Twist_ (2017–19) and _Yesterday and Today_ (2017-19). Other credits include music director for _Gutenberg: The Musical_ with The Candy Project and as a technical artist for Metallica World Tour. Tim has a Ph.D. in music composition from Stony Brook University and works remotely as a software engineering manager. Tim considers himself a morning person, often waking up at 5 am to work on creative pursuits for a few hours. Tim enjoys spending time with his family, watching movies, reading, and playing video games with his two sons.
+Timothy Vallier is a theatre composer, performer, and technical artist. His most recent works include composing original music for the stage plays _The Mystery of Irma Vep_, _Sleepy Hollow,_ _Native Gardens_, _A Raisin in the Sun_, _Sweat_, _Of Mice and Men,_ and _Ripcord_. As a performer, he appeared as Beast in _Beauty and the Beast_ (Mary Peckham Award), Mark Cohen in _RENT_, and Raoul in _Eating Raoul_ (TAG Award). Offstage, Tim served as the technical artist for _Rock Twist_ (2017–19) and _Yesterday and Today_ (2017-19). Other credits include music director for _Gutenberg: The Musical_ with The Candy Project and as a technical artist for Metallica World Tour. Tim has a Ph.D. in music composition from Stony Brook University and works remotely as a software engineering manager. Tim enjoys spending time with his family, watching movies, reading, and playing video games with his wife and two sons.
 
 Social Media
 ------------
@@ -86,6 +86,7 @@ Podcast embed code:
 
 ## Theatre Works
 
+* [The Mystery of Irma Vep - 2021](https://timothyvallier.com/project/2021-10-31-mystery-of-irma-vep)
 * [Sleepy Hollow - 2020](https://timothyvallier.com/project/sleepy-hollow)
 * [Native Gardens - 2020](https://timothyvallier.com/project/2020-02-14-native-gardens)
 * [Sweat - 2019](https://timothyvallier.com/project/2019-08-16-sweat)
@@ -130,6 +131,8 @@ Podcast embed code:
 # Press
 
 ## Composer Press
+* [The Mystery of Irma Vep - Broadway World - 2021](https://www.broadwayworld.com/omaha/article/BWW-Review-THE-MYSTERY-OF-IRMA-VEP-at-Omaha-Community-Playhouse-20211021)
+> “Composer Tim Vallier added a wonderful ambience with his original music, but without taking attention away from the action on stage.” -Analisa Swerczek
 * [One Way to Mars - Radio Appearance - KVNO - 2020](https://www.kvnonews.com/2020/05/omaha-community-playhouse-presents-audio-drama-one-way-to-mars)
 * [One Way to Mars - Preview - OWH - 2020](https://omaha.com/entertainment/mars-and-romance-combine-in-omaha-playhouses-online-pizza-production/article_2158378a-613e-542c-b6ea-f53e76b64eca.html)
 * [One Way to Mars - Preview - Broadway World - 2020](https://www.broadwayworld.com/omaha/article/Omaha-Community-Playhouse-Announces-Streaming-Events-20200501)  
@@ -239,4 +242,5 @@ Platforms
 Upcoming
 --------
 
-* Labs and Maps EP - Late 2021
+* The Giver - 2022
+* Labs and Maps EP - TBD
