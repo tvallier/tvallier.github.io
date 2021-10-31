@@ -2,7 +2,7 @@
 title: Electronic Press Kit
 subtitle: Dr. Timothy Vallier Ph.D.
 description: Electronic press kit for theatre composer, vocalist, and engineer Dr. Timothy Vallier Ph.D.
-featured_image: /images/featured/headshot2021.jpg
+featured_image: /images/featured/about.jpg
 ---
 
 <img style="border-radius: 50%;" src="images/personal/headshot2021.jpg" alt="Avatar">
